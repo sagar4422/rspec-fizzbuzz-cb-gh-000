@@ -11,4 +11,5 @@ else
   end
 end
 
-fizzbuzz(3)
+fizz_3 = fizzbuzz(3)
+puts fizz_3
